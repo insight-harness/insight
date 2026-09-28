@@ -16,7 +16,7 @@
 
 当前没有 macOS Intel 包。重打包桌面源码不等于补齐 Linux/macOS 上所有专业智能体的本机依赖。
 
-发布前需在隔离配置中启动 Windows 包；Linux 和 macOS 则需在对应机器启动验收。通过后才能上传至 [`jarodfund/insight Releases`](https://github.com/jarodfund/insight/releases)，并在此处提供正式下载链接和完整 SHA-256。
+发布前需在隔离配置中启动 Windows 包；Linux 和 macOS 则需在对应机器启动验收。通过后才能上传至 [`insight-harness/insight Releases`](https://github.com/insight-harness/insight/releases)，并在此处提供正式下载链接和完整 SHA-256。
 
 ## 本地文件摘要
 

@@ -6,8 +6,8 @@
 
 | 仓库 | 用途 |
 | :--- | :--- |
-| [`jarodfund/insight`](https://github.com/jarodfund/insight) | 学术派（Insight）产品源码、双语首页和客户端 ZIP Releases |
-| [`jarodfund/insight-components`](https://github.com/jarodfund/insight-components) | 适配智能体资源、签名清单和资源 Releases |
+| [`insight-harness/insight`](https://github.com/insight-harness/insight) | 学术派（Insight）产品源码、双语首页和客户端 ZIP Releases |
+| [`insight-harness/insight-components`](https://github.com/insight-harness/insight-components) | 适配智能体资源、签名清单和资源 Releases（待迁移） |
 
 Insight 按自己的产品代码和发行流程维护。上游项目仅作为依赖和来源记录；不会向上游仓库推送 Insight 修改或触发上游发行流程。底层依赖与服务保留真实技术名，不等同于产品品牌。
 

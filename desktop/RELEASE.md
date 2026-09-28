@@ -1,6 +1,6 @@
 # 学术派 Insight 发布
 
-产品中文名为学术派，英文名为 **Insight**。按操作系统和 CPU 架构发布免安装 ZIP；正式客户端资产放在 `jarodfund/insight` 的 GitHub Releases。当前发布状态和平台验收边界见[下载说明](../docs/DOWNLOADS.md)。
+产品中文名为学术派，英文名为 **Insight**。按操作系统和 CPU 架构发布免安装 ZIP；正式客户端资产放在 `insight-harness/insight` 的 GitHub Releases。当前发布状态和平台验收边界见[下载说明](../docs/DOWNLOADS.md)。
 
 ## 发布前检查
 
@@ -14,7 +14,7 @@
 
 本产品分发 ZIP，不生成 NSIS 安装器。程序更新下载完整 ZIP，使用者退出旧版后解压到新目录启动；程序目录与个人数据分开。入口和迁移行为见[免安装版说明](PORTABLE.md)。
 
-客户端 ZIP 发布在 `jarodfund/insight`；内置技能/工具的签名资源在独立 `jarodfund/insight-components` 仓库。本次改名不重新签署或覆盖已有资源 release。
+客户端 ZIP 发布在 `insight-harness/insight`；内置技能/工具的签名资源计划迁移到独立 `insight-harness/insight-components` 仓库。本次改名不重新签署或覆盖已有资源 release。
 
 ## 品牌约束
 

@@ -38,4 +38,4 @@ powershell -NoProfile -ExecutionPolicy Bypass -File desktop/scripts/repack-insig
   -OutputDirectory 'E:/build/Insight-0.2.7' -Target macOS-Apple-Silicon
 ```
 
-逐包核验 ZIP、包内版本、源码摘要、资源更新地址、运行入口、个人数据路径和平台架构。客户端 ZIP 进入 `jarodfund/insight` Release；智能体资源清单和资源包属于独立的 `jarodfund/insight-components` Release。
+逐包核验 ZIP、包内版本、资源更新地址、运行入口、个人数据路径和平台架构。客户端 ZIP 进入 `insight-harness/insight` Release；智能体资源清单和资源包属于独立的 `insight-harness/insight-components` Release（资源仓库迁移完成后启用）。
