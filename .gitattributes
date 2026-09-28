@@ -21,3 +21,6 @@
 *.gz binary
 *.woff binary
 *.woff2 binary
+
+# Temporary release staging objects; the workflow promotes these to GitHub Release assets.
+release-assets/*.zip filter=lfs diff=lfs merge=lfs -text
